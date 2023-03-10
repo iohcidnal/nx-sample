@@ -15,3 +15,7 @@ Run `npx nx connect-to-nx-cloud` to enable [remote caching](https://nx.app) and 
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+# Changeset requirements to work with Nx
+
+- create `.changeset` folder in the root of the workspace

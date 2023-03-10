@@ -1,3 +1,3 @@
 export function auth(): string {
-  return 'auth 02';
+  return 'auth 03';
 }
